@@ -1,0 +1,18 @@
+/* Mobile overrides for the extension popup stylesheet */
+body{width:auto;min-height:100vh;-webkit-text-size-adjust:100%}
+.top{padding:0 16px}
+.settings{display:none}
+.welcome{margin:16px 16px 12px}
+.metrics{margin:0 16px 12px;gap:8px}
+.metric{padding:12px;min-height:96px}
+.metric span{font-size:9px}.metric small{font-size:11px}.metric strong{font-size:24px}
+.panels{grid-template-columns:1fr;margin:0 16px 12px}
+.recent{margin:0 16px 12px}
+.panel h2{font-size:15px}.panel-head p{font-size:12px}
+.chart{height:130px}.bar{width:16px}.day label{font-size:11px}
+.legend div,.legend b{font-size:12px}.donut-center small{font-size:8px}
+.note{font-size:11px}
+.row-main strong{font-size:13px}.row-main small{font-size:11px}.badge{font-size:10px}
+.text-button{font-size:12px;padding:8px}
+.empty{font-size:13px}.empty strong{font-size:14px}
+footer{padding:7px 16px 24px;font-size:11px}

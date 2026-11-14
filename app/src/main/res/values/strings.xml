@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PhishGuard</string>
+    <string name="no_link">No web link found</string>
+    <string name="no_browser">No other browser is installed to open this link.</string>
+    <string name="choose_browser">Open safe links with</string>
+    <string name="none">none found</string>
+    <string name="setup_notifications">Background link scanning</string>
+    <string name="setup_notifications_btn">Turn on</string>
+    <string name="status_on">Background link scanning: ON</string>
+    <string name="status_off">Background link scanning: OFF</string>
+    <string name="setup_default">Check links tapped in other apps</string>
+    <string name="setup_default_btn">Set up</string>
+    <string name="setup_browser">Safe links open in: %1$s</string>
+    <string name="setup_browser_btn">Change</string>
+    <string name="alert_channel">Risky link alerts</string>
+    <string name="alert_high">High-risk link</string>
+    <string name="alert_medium">Link worth reviewing</string>
+    <string name="alert_body">%1$s · risk score %2$d/100. Don\'t tap it unless you trust the sender.</string>
+</resources>
